@@ -1,2 +1,3 @@
 my name is person b
 this is file 1
+this is file 2 - by person a
